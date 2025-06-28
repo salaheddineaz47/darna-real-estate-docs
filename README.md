@@ -91,9 +91,6 @@
 ### ✉️ Contact Page
 ![Contact Page](./screenshots/Contact-page.webp)
 
-### 🖼️ Project Thumbnail
-![Project Thumbnail](./screenshots/Darna-thumbnail.webp)
-
 ---
 
 ## Contact
@@ -102,7 +99,7 @@ For questions or to discuss the project, reach me via:
 
 - GitHub: [salaheddineaz47](https://github.com/salaheddineaz47)  
 - Email: salaheddine.aitzenni@gmail.com
-- Website : salahaz.netlify.app
+- Website : [My Portfolio](https://salahaz.netlify.app/)
 
 ---
 
