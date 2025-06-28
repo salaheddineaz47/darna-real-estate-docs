@@ -100,10 +100,11 @@
 
 This project was developed collaboratively by:
 
-- **Salah Eddine Ait Zenni** – Frontend development, UI/UX design, Inertia.js integration, and overall architecture  
-- **[Mohammed El Gargati](https://github.com/Elgargati)** – Backend development, admin functionality, database modeling, and logic for bookings and requests  
+- **Salah Eddine Ait Zenni**  
+- **[Friend’s Full Name](https://github.com/friendsusername)**
 
-We worked together to build a complete full-stack real estate platform from scratch using Laravel, React, and MySQL.
+We are both full-stack developers and worked together on every aspect of this project — from backend architecture and database modeling to frontend interfaces, user experience, and admin functionalities.  
+The result is a complete real estate web platform built with Laravel, React, Inertia.js, and MySQL.
 
 ---
 
