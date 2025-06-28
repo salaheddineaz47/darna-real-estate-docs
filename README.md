@@ -101,7 +101,7 @@
 This project was developed collaboratively by:
 
 - **Salah Eddine Ait Zenni**  
-- **[Friend’s Full Name](https://github.com/friendsusername)**
+- **[Mohammed El Gargati](https://github.com/Elgargati)**
 
 We are both full-stack developers and worked together on every aspect of this project — from backend architecture and database modeling to frontend interfaces, user experience, and admin functionalities.  
 The result is a complete real estate web platform built with Laravel, React, Inertia.js, and MySQL.
